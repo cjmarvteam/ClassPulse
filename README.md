@@ -1,7 +1,14 @@
-# Automated Google Classroom Activity Reminder
+# Automated-Google-Classroom-Activity-Reminder
 
-A full-stack application for organizing Google Classroom activities and sending
-automated deadline reminders.
+A full-stack web application for organizing Google Classroom activities and
+managing upcoming deadlines through automated reminders.
+
+## Developer
+
+**Marvin Laurence Burgos — Sole Developer**
+
+Developed independently as an individual full-stack project, covering the
+frontend interface and backend implementation.
 
 ## Live Application
 
