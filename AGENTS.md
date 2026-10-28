@@ -1,6 +1,6 @@
 # AGENTS.md - Project Continuation Guide
 
-## Project: Automated Google Classroom Activity Reminder
+## Project: ClassPulse
 
 ### Overview
 A web application that connects to Google Classroom, syncs courses and activities, and sends automated reminders for upcoming deadlines.
@@ -134,7 +134,7 @@ Authorization: Bearer <JWT_TOKEN>
 ## Project Structure
 
 ```
-Automated-Google-Classroom-Activity-Reminder/
+ClassPulse/
 ├── backend/                  # Express.js API server
 │   ├── prisma/               # Database schema
 │   ├── src/
@@ -174,4 +174,4 @@ Automated-Google-Classroom-Activity-Reminder/
 ## Git Repository
 
 - **GitHub Org:** cjmarvteam
-- **Repo:** https://github.com/cjmarvteam/Automated-Google-Classroom-Activity-Reminder
+- **Repo:** https://github.com/cjmarvteam/ClassPulse

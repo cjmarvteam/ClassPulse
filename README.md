@@ -1,4 +1,4 @@
-# Automated-Google-Classroom-Activity-Reminder
+# ClassPulse
 
 A full-stack web application for organizing Google Classroom activities and
 managing upcoming deadlines through automated reminders.
